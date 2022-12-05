@@ -1,12 +1,12 @@
 
-<!doctype html>
+
 <html>
 <center>
 <head>
 <br>
-</br>
+
 <br>
-</br>
+
 <h1> SAYCORR </h1>
  
 </head>
@@ -20,6 +20,6 @@
  
 
     <h3> NOMBRE: </h4> <h4> Alexis Roman Cruz Rosario </h4>
-    <h3> CREDITO: </h4> <h4> 0.0 </h4>
+    <h3> CREDITO: </h4> <h4> 0.0 
 
 
