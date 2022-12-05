@@ -20,6 +20,6 @@
  
 
     <h3> NOMBRE: </h4> <h4> Alexis Roman Cruz Rosario </h4>
-    <h3> CREDITO: </h4> <h4> 0.0 
+    <h3> CREDITO: 
 
 
